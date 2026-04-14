@@ -16,6 +16,7 @@ The ASM instance uses its own initialization parameter file, either an SPFILE or
 
 
 ## ASM Background Processes
+ora
 
 
 ## ASM Striping
