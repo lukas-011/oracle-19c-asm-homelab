@@ -3,7 +3,6 @@
 ## Overview
 
 The following queries are commonly used by DBAs for day-to-day ASM monitoring and troubleshooting. These cover disk group usage, database connections, disk paths, rebalance status, disk group attributes, and file placement.
-
 ---
 
 ## Disk Group Usage
